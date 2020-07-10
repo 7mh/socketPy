@@ -1,1 +1,2 @@
 # SocketPy
+Time Duplex Multiplexing 
